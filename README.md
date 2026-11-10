@@ -21,7 +21,7 @@ Blood Group : B +
 ## Files
 
 - `one.asm` : the assembly source code
-- `Microprocessor_Lab_Report.docx` : my full lab report with screenshots
+- `Microprocessor_Lab_Report.docx` : full report with screenshots
 
 ## Tools used
 
