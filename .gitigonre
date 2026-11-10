@@ -1,0 +1,10 @@
+*.obj
+*.exe
+*.map
+*.lst
+*.crf
+*.bak
+.vscode/
+Thumbs.db
+.DS_Store
+~$*
